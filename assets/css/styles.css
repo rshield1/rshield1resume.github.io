@@ -7,7 +7,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
-  background: #bdbbbb;
+  background: #7e7c7c;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
@@ -22,7 +22,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #2d7788;
+  color: #0a7891;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -54,7 +54,7 @@ p {
   width: 240px;
   height: 100%;
   min-height: 800px;
-  color: rgb(209, 202, 202);
+  color: rgb(255, 255, 255);
 }
 .sidebar-wrapper a {
   color: rgb(26, 23, 23);
